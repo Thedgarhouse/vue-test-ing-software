@@ -1,6 +1,6 @@
 # front-back-test
 
-> A Vue.js project
+> A Vue.js project used as a demo for first Vue application.
 
 ## Build Setup
 
