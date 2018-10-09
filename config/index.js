@@ -1,7 +1,7 @@
 'use strict'
 // Template version: 1.2.8
 // see http://vuejs-templates.github.io/webpack for documentation.
-// Also this comment right here was created to test git capabilities 
+// Also this comment right here was created to test git capabilities
 const path = require('path')
 
 module.exports = {
